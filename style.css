@@ -1,0 +1,16 @@
+.heading{
+    width: 50%;
+    font-size: 30px;
+
+}
+
+.name_objects{
+    color: aqua;
+    font-size: 25px;
+    
+}
+
+body{
+    background-color: blueviolet;
+    color: aliceblue;
+}
